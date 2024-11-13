@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Rizwan Ali!
 
 I'm a passionate **Web Developer** with expertise in building modern, responsive websites and web applications. With experience in both front-end and back-end development, I strive to create intuitive, user-friendly, and high-performance solutions.
 
@@ -15,7 +15,7 @@ I'm a passionate **Web Developer** with expertise in building modern, responsive
 
 ### **Backend Development**
 - **PHP**: Building dynamic websites and web applications with PHP.
-- **MySQL**: Database management for PHP applications.
+- **MySQLi**: Database management for PHP applications.
 
 ### **Version Control & Tools**
 - **Git**: Version control for managing project codebase.
@@ -23,7 +23,7 @@ I'm a passionate **Web Developer** with expertise in building modern, responsive
 
 ## 🌱 Currently Learning
 - **Node.js**: To enhance backend development skills.
-- **GraphQL**: For efficient data fetching and working with APIs.
+- **Express.js**: For efficient data fetching and server side.
 - **TypeScript**: Adding static types to JavaScript for better scalability and maintainability.
 
 ## 🚀 Projects & Work
