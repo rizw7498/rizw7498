@@ -23,28 +23,21 @@ I'm a passionate **Web Developer** with expertise in building modern, responsive
 
 ## 🌱 Currently Learning
 - **Node.js**: To enhance backend development skills.
-- **Express.js**: For efficient data fetching and server side.
-- **TypeScript**: Adding static types to JavaScript for better scalability and maintainability.
+- **Express.js**: For efficient data fetching and server-side handling.
+- **MondoDb**:Learning MongoDb for database.
 
-## 🚀 Projects & Work
-
-Here are some of the projects I've worked on:
-
-- **[Project 1](#)**: A brief description of your first project with a link to the GitHub repository.
-- **[Project 2](#)**: A brief description of your second project with a link to the GitHub repository.
-- **[Project 3](#)**: A brief description of your third project with a link to the GitHub repository.
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## 📬 Contact Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Twitter**: [@your-twitter-handle](#)
+
+- 📧 **Email**: rizwali303@gmail.com(mailto:rizwali303@gmail.com)
+- 💼 **LinkedIn**:https://www.linkedin.com/in/rizwan-ali-79214a266(#)
+
 
 Feel free to check out my repositories, open issues, or reach out for collaboration!
 
 ---
 
 Thanks for visiting my GitHub profile. Happy coding! 🚀
-
