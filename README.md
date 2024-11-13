@@ -32,8 +32,8 @@ I'm a passionate **Web Developer** with expertise in building modern, responsive
 
 ## 📬 Contact Me
 
-- 📧 **Email**: rizwali303@gmail.com(mailto:rizwali303@gmail.com)
-- 💼 **LinkedIn**:https://www.linkedin.com/in/rizwan-ali-79214a266(#)
+- 📧 **Email**: rizwali303@gmail.com
+- 💼 **LinkedIn**:https://www.linkedin.com/in/rizwan-ali-79214a266
 
 
 Feel free to check out my repositories, open issues, or reach out for collaboration!
