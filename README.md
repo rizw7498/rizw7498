@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rizwan Ali!
 
-I'm a passionate **Web Developer** with expertise in building modern, responsive websites and web applications. With experience in both front-end and back-end development, I strive to create intuitive, user-friendly, and high-performance solutions.
+I'm a passionate **MERN stack Developer** with expertise in building modern, responsive websites and web applications. With experience in both front-end and back-end development, I strive to create intuitive, user-friendly, and high-performance solutions.
 
 ## 💻 Skills & Technologies
 
@@ -12,10 +12,6 @@ I'm a passionate **Web Developer** with expertise in building modern, responsive
 - **Next.js**: Server-side rendering, static site generation, and building full-stack applications.
 - **Bootstrap**: Rapid UI development with responsive design.
 - **Tailwind CSS**: Utility-first CSS framework for highly customizable designs.
-
-### **Backend Development**
-- **PHP**: Building dynamic websites and web applications with PHP.
-- **MySQLi**: Database management for PHP applications.
 
 ### **Version Control & Tools**
 - **Git**: Version control for managing project codebase.
@@ -34,10 +30,12 @@ I'm a passionate **Web Developer** with expertise in building modern, responsive
 
 - 📧 **Email**: rizwali303@gmail.com
 - 💼 **LinkedIn**:https://www.linkedin.com/in/rizwan-ali-79214a266
+- 💼 **Portfolio**:https://rizwan-portfolio-ten.vercel.app/
+
 
 
 Feel free to check out my repositories, open issues, or reach out for collaboration!
 
 ---
 
-Thanks for visiting my GitHub profile. Happy coding! 🚀
+Thanks for visiting my GitHub profile ! 🚀
