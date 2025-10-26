@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Rizwan Ali  
-### 🚀 MERN Stack Developer | Full-Stack Enthusiast | Clean Code Advocate
+### 🚀 MERN Stack Developer | Frontend Specialist | Passionate About Clean, Scalable Code
 
 I'm a passionate **MERN Stack Developer** skilled at crafting **modern**, **responsive**, and **high-performance** web applications. I bring both **frontend flair** and **backend logic** together to deliver intuitive and scalable solutions. I love turning complex problems into elegant code!
 
@@ -11,12 +11,12 @@ I'm a passionate **MERN Stack Developer** skilled at crafting **modern**, **resp
   *2023 – 2024*  
   Developed responsive interfaces using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. Focused on cross-browser compatibility and mobile-first design.
 
-- ⚛️ **React Developer Intern – Megma Solutions**  
+- ⚛️ **React Developer Intern – Magma Solutions**  
   *May – June 2024*  
   Built reusable components and dynamic UIs with **React.js**, consuming RESTful APIs and implementing state management using **React Hooks**.
 
 - 🌐 **MERN Stack Developer Intern – Fairchance**  
-  *Feb – June 2025 (Now Full-Time)*  
+  *Feb – September 2025 (Now Full-Time)*  
   Worked on a **CRM-like approval process**, user dashboards, and admin panels using **MongoDB**, **Express**, **React**, and **Node.js**. Integrated secure authentication and user roles.
 
 ---
@@ -40,7 +40,7 @@ Custom approval process that mimics Zoho CRM:
 
 ### 🧾 Portfolio Website
 Personal portfolio built with:
-- **Next.js**, **Tailwind CSS**
+- **Next.js**, **Tailwind CSS**, **Framer Motion**
 - Fully responsive & SEO optimized
 - Deployed on **Vercel**  
 🔗 [Visit Portfolio](https://rizwan-portfolio-silk.vercel.app/)
@@ -50,7 +50,7 @@ Personal portfolio built with:
 ## 💡 Tech Stack & Skills
 
 ### 🔧 Frontend Development
-- **HTML5**, **CSS3**, **JavaScript (ES6+)**
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**, **Framer motion**
 - **React.js**, **Next.js**
 - **Bootstrap**, **Tailwind CSS**
 
@@ -64,8 +64,8 @@ Personal portfolio built with:
 ## 🌱 Currently Exploring
 - 🔄 Advanced backend patterns with **Express.js**
 - ⚙️ Performance optimization in **Next.js**
-- 🔐 Authentication with **JWT**, **OAuth**, and **Sessions**
-- 🧠 MongoDB Aggregation Pipelines
+- 🔐 Authentication with **JWT**, **OAuth**,, **Googleauth** and **Sessions**
+- 🧠 MongoDB Aggregation 
 
 ---
 
