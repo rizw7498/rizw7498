@@ -89,10 +89,6 @@ My digital playground showcasing my work.
 - **Stack:** Next.js, Tailwind CSS, Framer Motion.
 - **Link:** [Visit Portfolio](https://rizwan-portfolio-silk.vercel.app/)
 
----
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect
