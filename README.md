@@ -88,9 +88,6 @@
 
 <br/>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <br/>
 
 <!-- Footer / Connect -->
