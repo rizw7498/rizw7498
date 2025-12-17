@@ -91,21 +91,6 @@ My digital playground showcasing my work.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Stacked images for mobile scrolling -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-<br/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<br/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
-
-</div>
-
 ---
 
 <div align="center">
