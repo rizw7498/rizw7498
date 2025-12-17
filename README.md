@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Mobile-Friendly Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Rizwan%20Ali&fontSize=50&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Rizwan%20Ali&fontSize=50&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=60&descAlign=50"/>
 
 <!-- Typing Animation - Adjusted Width for Mobile -->
 <a href="https://git.io/typing-svg">
