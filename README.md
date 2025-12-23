@@ -66,7 +66,7 @@ I'm a passionate **MERN Stack Developer** skilled at crafting **modern**, **resp
 - Managed complex state using Redux and Hooks.
 
 #### 🧩 **Frontend Developer** @ *Bclix Tech*
-*(2023 – 2024)*
+*(2021 – 2024)*
 - Developed pixel-perfect, mobile-first interfaces.
 - Ensured cross-browser compatibility using Bootstrap & CSS3.
 
