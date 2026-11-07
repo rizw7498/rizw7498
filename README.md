@@ -18,10 +18,10 @@
     <a href="mailto:rizwali303@gmail.com" aria-label="Send an email to Rizwan Ali">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rizwan Ali">
     </a>
-    <a href="https://rizwan-portfolio-silk.vercel.app/" target="_blank" aria-label="Visit Rizwan Ali's Personal Portfolio">
+    <a href="https://rizwanali.tech" target="_blank" aria-label="Visit Rizwan Ali's Personal Portfolio">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio Website">
     </a>
-    <a href="https://github.com/yourusername" target="_blank" aria-label="Explore Rizwan Ali's GitHub repositories">
+    <a href="https://github.com/rizw7498" target="_blank" aria-label="Explore Rizwan Ali's GitHub repositories">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
     </a>
   </p>
@@ -94,7 +94,7 @@ An internal tool mirroring Zoho-like approval processes for various organization
 My digital showcase of projects, skills, and professional journey.
 -   **Tech Stack:** **Next.js** for performance and SEO, **Tailwind CSS** for rapid styling, Framer Motion for animations.
 -   **Key Features:** Responsive design, smooth animations, project details with live links.
--   **Link:** [Visit My Portfolio](https://rizwan-portfolio-silk.vercel.app/)
+-   **Link:** [Visit My Portfolio](https://rizwanali.tech)
 -   **Keywords:** `Next.js portfolio`, `Tailwind CSS`, `web development showcase`, `responsive design`.
 
 ---
